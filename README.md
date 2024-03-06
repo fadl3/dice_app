@@ -1,6 +1,6 @@
 # dice_app
 
-A new Flutter project.
+This was my first ever flutter project, it was a code-along with Academind's Max. It is a very simple code to create a dice roller to get a grasp of the very basic concepts.
 
 ## Getting Started
 
